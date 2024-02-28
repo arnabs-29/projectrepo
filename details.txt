@@ -1,0 +1,4 @@
+Name
+Address
+Phone Number
+Occupation
